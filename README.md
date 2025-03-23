@@ -1,8 +1,8 @@
 <a href="https://rishavchanda.io">
-  <img src="[https://wallpaperaccess.com/full/1176276.jp](https://images.search.yahoo.com/images/view;_ylt=Awrjfe3nzN9nmigrtzmJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2I5MjIwZTM4YzE1MzQ4NTRiZDI4MmRiMmFlYjZlNTNhBGdwb3MDNwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dsoftware%2Bengineering%2Bcodeing%2Bphotos%26fr%3Dmcafee_e-26860_3PC-c%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D7&w=626&h=417&imgurl=img.freepik.com%2Fpremium-photo%2Fsoftware-engineer-coding-iot-concept-laptop-with-circuit-board_1168123-24987.jpg&rurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fsoftware-engineer-coding-iot-concept-laptop-with-circuit-board_156865193.htm&size=62KB&p=software+engineering+codeing+photos&oid=b9220e38c1534854bd282db2aeb6e53a&fr2=piv-web&fr=mcafee_e-26860_3PC-c&tt=Premium+Photo+%7C+Software+engineer+coding+IoT+concept+on+laptop+with+circuit+board&b=0&ni=21&no=7&ts=&tab=organic&sigr=GdLwxw0naYr8&sigb=lxwQht1XFEIp&sigi=xqtYhVSsv5s7&sigt=Uj2ROMeJf6pv&.crumb=az4g8mh2ctG&fr=mcafee_e-26860_3PC-c&fr2=piv-web)g" alt="MasterHead" width="800" />
+  <img src="https://wallpaperaccess.com/full/1176276.jpg" alt="MasterHead" width="800" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Kajanthan U</h1>
+<h1 align="center">Hi 👋, I'm Aaron Charles </h1>
 <h3 align="center">Aspiring Software Engineer | SLIIT Undergraduate</h3>
 <img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.YIu7Sah7TKYmz6AY_N3exgHaHa&pid=Api&P=0&h=220">
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android , MERN**
 
-- 📫 How to reach me **kanthantharsi1@gmail.com**
+- 📫 How to reach me **jesuaroncharles@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 

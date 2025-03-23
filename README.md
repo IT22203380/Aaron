@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://wallpaperaccess.com/full/1176276.jpg" alt="MasterHead" width="800" />
+  <img src="https://tse1.mm.bing.net/th?id=OIP.Sb0vz5BumFIgu3dRdBEZ4QHaEN&pid=Api&P=0&h=220.jpg" alt="MasterHead" width="800" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Aaron Charles</h1>
@@ -12,9 +12,10 @@
 
 - 💬 Ask me about **Android, MERN**
 
-- 📫 How to reach me: <a href="mailto:kanthantharsi1@gmail.com">kanthantharsi1@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:kanthantharsi1@gmail.com">jesuaroncharles@gmail.com</a>
 
-- ⚡ Fun fact: **I am funny**
+- ⚡ Fun fact: I love solving coding challenges!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

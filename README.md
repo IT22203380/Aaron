@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://wallpaperaccess.com/full/1176276.jpg" alt="MasterHead" width="800" />
+  <img src="https://tse3.mm.bing.net/th?id=OIP.3yArSAXgnbTecoPs0muGgQHaE7&pid=Api&P=0&h=220.jpg" alt="MasterHead" width="800" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Aaron Charles </h1>
